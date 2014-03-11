@@ -1,4 +1,4 @@
-riccardogrosso.github.io
-========================
+site
+====
 
-RG Site
+primary site for riccardogrosso.org

@@ -1,0 +1,59 @@
+/* Riccardo Grosso stylesheet */
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Noticia Text', serif;
+	background: #fff;
+	color: #333;
+}
+
+img {
+	vertical-align: middle;
+	border: 0 none;
+}
+
+a {
+	color: #09c;
+}
+
+h1 {
+	margin-bottom: 50px;
+}
+
+p {
+	margin-bottom: 20px;
+	font-size: 16px;
+	font-weight: lighter;
+	line-height: 1.6;
+}
+
+
+.container {
+	margin: 60px;
+}
+
+.content {
+	max-width: 450px;
+}
+
+.element {
+}
+
+.footer {
+	font-family: sans-serif;
+	font-weight: lighter;
+	font-size: 12px;
+	text-transform: uppercase;
+	color: #999;
+	margin-top: 100px;
+	word-spacing: 30px;
+}
+
+@media screen and (max-width: 320px) {
+
+	.container {
+		margin: 20px;
+	}
+
+}
